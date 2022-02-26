@@ -1,0 +1,21 @@
+body{
+    background-color: lightblue;
+}
+.heading{
+    font-family: 'Balsamiq Sans';
+    font-size: 40px;
+}
+p{
+    font-family: 'Balsamiq Sans';
+}
+.name_of_objects{
+    font-family: 'Balsamiq Sans';
+    color: purple;
+}
+#webcam{
+    font-size: 16px;
+    font-family: 'Balsamiq Sans';
+}
+button{
+    font-family: 'Balsamiq Sans';
+}
